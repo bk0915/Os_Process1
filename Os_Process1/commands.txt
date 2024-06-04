@@ -1,0 +1,6 @@
+echo abc ; &echo def ; echo ghi
+&echo jkl
+gcd 12 18
+prime 100
+sum 1000000 -m 4 -n 2
+dummy -n 100
